@@ -27,11 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django_project/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -85,7 +94,6 @@
         <option value="$PROJECT_DIR$/django_project/posts.json" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_done.html" />
-        <option value="$PROJECT_DIR$/django_project/settings.py" />
         <option value="$PROJECT_DIR$/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" />
         <option value="$PROJECT_DIR$/users/templates/users/logout.html" />
@@ -94,6 +102,7 @@
         <option value="$PROJECT_DIR$/users/templates/users/password_reset.html" />
         <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/django_project/settings.py" />
       </list>
     </option>
   </component>
@@ -104,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="688" />
     <option name="y" value="68" />
     <option name="width" value="915" />
@@ -122,6 +131,11 @@
           <expand>
             <path>
               <item name="django_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_project" type="462c0819:PsiDirectoryNode" />
               <item name="django_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -194,15 +208,15 @@
       <workItem from="1554070311061" duration="4883000" />
       <workItem from="1554082285192" duration="17287000" />
       <workItem from="1554218738354" duration="5505000" />
-      <workItem from="1554272702333" duration="4219000" />
+      <workItem from="1554272702333" duration="4472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31894000" />
+    <option name="totallyTimeSpent" value="32147000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="688" y="68" width="915" height="760" extended-state="1" />
+    <frame x="688" y="68" width="915" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17869416" />
@@ -493,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1986">
-          <caret line="134" column="16" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -524,6 +531,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
         </state>
       </provider>
     </entry>
